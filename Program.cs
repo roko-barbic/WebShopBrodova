@@ -1,5 +1,5 @@
 using Microsoft.EntityFrameworkCore;
-using WebShopBrodova.Data;
+using WebShopBrodova.DataAccess.Data;
 //using ShopBrodova.Data
 var builder = WebApplication.CreateBuilder(args);
 

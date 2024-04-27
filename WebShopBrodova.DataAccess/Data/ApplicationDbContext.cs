@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using WebShopBrodova.Models;
-namespace WebShopBrodova.Data;
+using WebShopBrodova.Models.Models;
+namespace WebShopBrodova.DataAccess.Data;
 
 public class ApplicationDbContext : DbContext
 {

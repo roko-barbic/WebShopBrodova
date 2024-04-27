@@ -1,4 +1,4 @@
-namespace WebShopBrodova.Models
+namespace WebShopBrodova.Models.Models
 {
     public class ErrorViewModel
     {

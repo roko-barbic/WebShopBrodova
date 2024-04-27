@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
-using WebShopBrodova.Models;
+using WebShopBrodova.Models.Models;
 
 namespace WebShopBrodova.Controllers
 {

@@ -2,7 +2,7 @@
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace WebShopBrodova.Models;
+namespace WebShopBrodova.Models.Models;
 
 public class TypeBoat
 {
